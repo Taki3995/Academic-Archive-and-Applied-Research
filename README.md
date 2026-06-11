@@ -92,4 +92,4 @@ Laboratorio de limpieza de datos y Análisis Exploratorio de Datos (EDA).
 ### 12. [Proyecto Paradigmas de Programación](https://github.com/Taki3995/Proyecto-paradigmas.git)
 * **Contexto:** * **Enfoque Técnico:** * **Stack:** ### 13. [Laboratorios Estructura de Datos](https://github.com/Taki3995/Laboratorios-Estructura-de-datos.git)
 * **Contexto:** * **Enfoque Técnico:** * **Stack:** ---
-> 💡 *Para ver mis proyectos de escala industrial, automatización y arquitecturas en producción, visita mi [Portafolio Principal](URL-DE-TU-PORTAFOLIO-PRINCIPAL-AQUI).*
+> 💡 *Para ver mis proyectos de escala industrial, automatización y arquitecturas en producción, visita mi [Portafolio Principal](https://github.com/Taki3995/Showcase.git).*
